@@ -19,7 +19,7 @@ public:
     }
 
     friend std::ostream& operator<<(std::ostream& out, const Operators& data);
-    // ^^^Przeci¹zenie operatorow "Overloading operators"
+    // ^^^PrzeciÂ¹zenie operatorow "Overloading operators"
 
 
 
